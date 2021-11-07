@@ -1,0 +1,32 @@
+{
+  "name": "utcstring",
+  "version": "0.1.0",
+  "description": "utc date helpers",
+  "main": "utcstring.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --check-leaks --ui exports"
+  },
+  "devDependencies": {
+    "mocha": "1.13"
+  },
+  "keywords": [
+    "date",
+    "match",
+    "time",
+    "utc"
+  ],
+  "author": "Sean McArthur <sean.monstar@gmail.com> (http://seanmonstar.com)",
+  "bugs": "https://github.com/seanmonstar/utcstring/issues",
+  "homepage": "https://github.com/seanmonstar/utcstring",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanmonstar/utcstring.git"
+  },
+  "licenses" : [{
+    "type": "MPL 2.0",
+    "url": "https://mozilla.org/MPL/2.0/"
+  }]
+}
