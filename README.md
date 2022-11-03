@@ -77,11 +77,6 @@ The purpose of this system is to allow registered users to book available laundr
 * Dashboard: The user can view, create and edit notes relevant to other users in the apartment building.
 
 
-
-### Entity-Relationship (ER) Diagram
-
-![ER Diagram](./images/er_diagram.png)
-
 ## Teaser (MS3)
 
 ![Teaser](./images/teaser.png)
